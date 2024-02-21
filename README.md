@@ -15,7 +15,7 @@ Requerimientos:
 ```
 
 ![Texto Alternativo](./design/desktop-design.jpg)
-![Texto Alternativo](./design/desktop-preview.jpg)
+![Texto Alternativo](./design/desktop-success-active.jpg)
 
 ## Viewports
 
