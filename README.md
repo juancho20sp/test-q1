@@ -7,7 +7,7 @@ Para este ejercicio tendrá inicialmente **90 minutos**.
 Requerimientos:
 
 - Desarrollar toda la UI de forma responsive.
-- Generar las interacciones necesarias para modificar el DOM y seguir el flujo propuesto por el trabajo.
+- Generar las interacciones necesarias para modificar el DOM y seguir el flujo propuesto por los diseños.
 - Desplegar la aplicación a través de Github Pages.
 
 ```markdown
@@ -19,11 +19,10 @@ Requerimientos:
 
 ## Viewports
 
-| Viewport             | Dimensiones (ancho x alto) |
-| -------------------- | -------------------------- |
-| **Mobile Portrait**  | 320px x 480px              |
-| **Tablet Portraite** | 768px x 1024p              |
-| **Desktop**          | +1024px                    |
+| Viewport            | Dimensiones (ancho x alto) |
+| ------------------- | -------------------------- |
+| **Mobile Portrait** | 320px x 480px              |
+| **Desktop**         | +1024px                    |
 
 ## Rúbrica
 
